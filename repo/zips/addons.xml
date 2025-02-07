@@ -2,9 +2,10 @@
 <addons><addon id="repo.ems" name="EMs_Repo" version="1.0" provider-name="Emmbruhhh">
     <extension point="xbmc.addon.repository" name="Emmbruhhh's Repo">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/emmbruhhh/ems/main/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/Yemmbruhhh/ems/main/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/emmbruhhh/ems/main/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/emmbruhhh/emmbruhhh.github.io/main/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/emmbruhhh/emmbruhhh.github.io/main/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/emmbruhhh/emmbruhhh.github.io
+/main/repo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
